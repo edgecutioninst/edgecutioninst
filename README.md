@@ -16,8 +16,6 @@ I'm a backend-focused full stack developer pursuing **B.Tech in Electrical Engin
 
 I enjoy designing scalable backend systems, building AI-powered applications, and turning ideas into production-ready products. My interests lie at the intersection of backend engineering, developer tooling, and practical AI integrations.
 
-Outside of software engineering, I'm currently learning **Japanese (JLPT N4)** with the long-term goal of pursuing software engineering opportunities in Japan.
-
 ---
 
 ## 🛠 Tech Stack
